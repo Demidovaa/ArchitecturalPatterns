@@ -1,1 +1,1 @@
-# ArchitecturalPatterns-
+# ArchitecturalPatterns
